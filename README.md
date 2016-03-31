@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/choosechew.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/choosechew)
 # choosechew
 repo for project ChooseChew
 
