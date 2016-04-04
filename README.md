@@ -15,3 +15,4 @@ Measurement Plan:
 % of users comes back and uses the app a second time
 
 Baseline Measurement:
+When we created a poll asking people whether they would be interested in using an app like ours or not, 8/8 = 100% said they would.
